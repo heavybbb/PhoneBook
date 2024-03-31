@@ -1,0 +1,3 @@
+Петр, Иванов, 83442342344, Peter@mail.ru
+Вася,Васильев, +791881231231, email@vasya.tu
+Kolya, Smirnov, +7911333555444, emailkolya@yandex.ru
